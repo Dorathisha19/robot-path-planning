@@ -57,4 +57,4 @@ The program prints a performance comparison table and generates a visualization 
 
 ## Author
 
-Dorathisha B — CSE Graduate | AI & ML Enthusiast | Erasmus Mundus Applicant 2027
+Dorathisha P — CSE Graduate | AI & ML Enthusiast | Erasmus Mundus Applicant 2027
